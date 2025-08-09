@@ -1,3 +1,11 @@
 <x-layouts>
-    Hello World
+    <section>
+       
+        
+        <div class="grid lg:grid-cols-3 gap-8">
+            <x-job-card />
+            <x-job-card />
+            <x-job-card />
+        </div>
+    </section>
 </x-layouts>
