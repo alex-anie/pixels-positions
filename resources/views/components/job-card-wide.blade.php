@@ -1,4 +1,4 @@
-<div class="p-4 bg-white/5 rounded-xl flex gap-x-6 border border-transparent hover:border-blue-900 transition-colors duration-1000 group">
+<x-panel>
     <div class="w-[90px] h-[90px]">
         <x-employer-logo />
     </div>
@@ -18,3 +18,4 @@
         </div>
     </div>
 </div>
+</x-panel>
